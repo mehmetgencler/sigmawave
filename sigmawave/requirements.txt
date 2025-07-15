@@ -1,0 +1,6 @@
+numpy>=1.22
+scipy>=1.8
+matplotlib>=3.5
+bilby>=1.4
+pycbc>=2.0
+astropy>=5.0
